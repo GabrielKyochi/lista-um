@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atividade 3 - PHP</title>
+    <title>Questão 1 - PHP</title>
 </head>
 <body>
     <form method="POST" action="">

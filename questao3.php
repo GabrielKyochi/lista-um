@@ -7,7 +7,7 @@
 <body>
     <form method="POST" action="">
     <label for="numero_tipo">Escreva um número para verificar se ele é positivo, negativo ou zero:</label>
-    <input type="number" id="numero_tipo" name="numero_tipo">
+    <input type="number" id="numero_tipo" name="numero_tipo" required>
     <button name="verificar_tipo">Enviar</button>
     </form>
 

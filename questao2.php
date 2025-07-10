@@ -7,7 +7,7 @@
 <body>
     <form method="POST" action="">
     <label for="numero_tabuada">Digite um número para verificar a tabuada de um número:</label>
-    <input type="number" id="numero_tabuada" name="numero_tabuada">
+    <input type="number" id="numero_tabuada" name="numero_tabuada" required>
     <button type="submit" name="verificar_tabuada">Enviar</button>
     </form>
 

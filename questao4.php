@@ -7,7 +7,7 @@
 <body>
     <form method="POST" action="">
     <label for="numero_fatorial">Digite um número para verificar o seu fatorial:</label>
-    <input name="numero_fatorial" id="numero_fatorial" type="number">
+    <input name="numero_fatorial" id="numero_fatorial" type="number" required>
     <button type="submit" name="verificar_fatorial">Enviar</button>
     </form>
     <?php

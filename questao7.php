@@ -6,7 +6,7 @@
 </head>
 <body>
     <form method="POST" action="">
-        <label for="numero_perfeito">Escreva um numero para verificar se ele é perfeito.</label>
+        <label for="numero_perfeito">Escreva um numero para verificar se ele é perfeito:</label>
         <input type="number" id="numero_perfeito" name="numero_perfeito">
         <button type="submit" name="verificar_numero_perfeito">Enviar</button>
     </form>
